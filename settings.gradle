@@ -1,0 +1,2 @@
+rootProject.name = "FinMan"
+include ':app'
